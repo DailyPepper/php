@@ -18,11 +18,11 @@
     </header>
       <main>
           <?php
-            echo $hello;
+            echo $hello; 
           ?>
       </main>
     <footer>
-      <h3>
+      <h3>  
         <?php  
           echo $end;
         ?>
